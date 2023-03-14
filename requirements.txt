@@ -14,7 +14,10 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.2
 orjson==3.8.7
+packaging==23.0
+Pillow==9.4.0
 pydantic==1.10.6
+pytesseract==0.3.10
 python-dotenv==1.0.0
 python-multipart==0.0.6
 PyYAML==6.0
